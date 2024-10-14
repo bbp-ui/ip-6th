@@ -1,0 +1,42 @@
+/* Education.css */
+
+.education {
+    background-color: #ffffff; /* White background for the education section */
+    color: #333; /* Dark text color for readability */
+    padding: 40px; /* Padding around the section */
+    max-width: 900px; /* Limit the width of the content */
+    margin: 0 auto; /* Center the section */
+    min-height: 100vh; /* Fill the full height of the viewport */
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start; /* Align items at the start */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-radius: 10px; /* Rounded corners */
+  }
+  
+  h2 {
+    font-size: 2.5em; /* Size of the main heading */
+    color: #007bff; /* Blue color for the heading */
+    margin-bottom: 20px; /* Space below the heading */
+  }
+  
+  .education-item {
+    margin-bottom: 30px; /* Space between each education item */
+    padding: 20px; /* Padding inside each education item */
+    border: 1px solid #e1e1e1; /* Light gray border around each item */
+    border-radius: 5px; /* Slightly rounded corners for items */
+    background-color: #f9f9f9; /* Light background for education items */
+  }
+  
+  h3 {
+    font-size: 1.8em; /* Size of sub-headings */
+    margin-bottom: 10px; /* Space below sub-headings */
+    color: #333; /* Dark color for sub-headings */
+  }
+  
+  p {
+    font-size: 1.2em; /* Size of paragraph text */
+    line-height: 1.6; /* Spacing between lines for readability */
+    margin-bottom: 10px; /* Space below paragraphs */
+  }
+  
